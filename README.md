@@ -6,7 +6,7 @@ student bassed repo for learning.
 
 ## How do you see the files changed within each commit from git log?
 
-Use these 2 types of commands  "git log --name-only" or "git log --name-only --oneline" 
+Use these several types of commands  "git log --name-only" , "git log --name-only --oneline" or "git show"... 
 
 ### 	How do you see the contents of what changed within each file from the git log?
 
