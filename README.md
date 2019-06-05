@@ -1,6 +1,6 @@
 # Git101basics
 student bassed repo for learning.
-# Markdown Questions
+# Git 101, with Exercise questions
 
 
 
